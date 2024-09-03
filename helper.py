@@ -6,3 +6,7 @@ def sum():
         res += i
 
     return res
+
+
+def pow(a, b):
+    return a**b
